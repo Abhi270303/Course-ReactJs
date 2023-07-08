@@ -1,0 +1,24 @@
+img {
+  width: 100%;
+}
+.coming-soon {
+  position: relative;
+}
+.top-text {
+  position: absolute;
+  top: 6%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.bottom-text {
+  position: absolute;
+  bottom: -5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.coming-soon h1 {
+  font-weight: 900;
+  font-size: 4.5vw;
+  margin-bottom: 0;
+  color: #3e4263;
+}
